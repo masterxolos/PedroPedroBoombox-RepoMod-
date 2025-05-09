@@ -1,0 +1,10 @@
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\PedroPedroSpeaker.csproj.AssemblyReference.cache
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\PedroPedroSpeaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\PedroPedroSpeaker.AssemblyInfoInputs.cache
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\PedroPedroSpeaker.AssemblyInfo.cs
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\PedroPedroSpeaker.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\bin\Debug\netstandard2.1\pedro.ogg
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\bin\Debug\netstandard2.1\PedroPedroSpeaker.deps.json
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\bin\Debug\netstandard2.1\PedroPedroSpeaker.dll
+C:\Users\ozgur\Desktop\repo pedro\PedroPedroSpeaker\obj\Debug\netstandard2.1\PedroPedroSpeaker.dll

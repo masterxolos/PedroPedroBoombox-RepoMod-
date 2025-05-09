@@ -1,6 +1,6 @@
-# 🎵 Pedro Pedro Speaker (Thunderstore Mod)
+# 🎵 Pedro Pedro Speaker (Repo Mod)
 
-**Pedro Pedro Speaker** is a BepInEx plugin for Unity games that replaces the in-game boombox music with the legendary **Pedro Pedro** song — all secretly embedded inside the `.dll` file!
+**Pedro Pedro BoomBox** is a BepInEx plugin for Unity games that replaces the in-game boombox music with the legendary **Pedro Pedro** song — all secretly embedded inside the `.dll` file!
 
 ---
 
